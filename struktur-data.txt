@@ -1,0 +1,16 @@
+Struktur data adalah cara mengatur dan menyimpan sebuah struktur pada sistem komputer atau pangkalan data (database) agar lebih lebih mudah diakses.
+  1. Array
+     Array merupakan struktur data yang menyimpan beberapa data yang memiliki tipe yang sama secara berurutan dan saling berdekatan. Array dapat diakses berdasarkan indeksnya.
+  2. Stack
+     Stack merupakan struktur data linier yang mengikuti urutan tertentu di lokasi operasi dilakukan. Urutannya ada dua, yakni Last In First Out atau LIFO dan First In Last Out atau FILO. 
+  3. Queue
+     Queue merupakan struktur linier yang mengikuti urutan First In First Out atau FIFO, di mana operasi dilakukan. Dalam Queue, item masuk di satu ujung dan dihapus dari ujung lainnya.
+  4. Tree
+     Tree merupakan struktur data yang mempunyai bentuk mirip dengan pohon, umumnya tipe ini lebih sering dimanfaatkan untuk menyimpan beberapa data secara hierarkis sebab disusun dalam beberapa level.
+  5. Linked List
+     Linked list merupakan tipe struktur yang terdiri dari beberapa urutan data linear yang dihubungkan satu dengan lainnya.
+  6. Graph
+     Graph merupakan tipe struktur data yang berisikan beberapa node yang saling terhubung. 
+  7. Hash Table
+     Hash table merupakan tipe yang dipakai untuk menyimpan data-data secara asosiatif, tipe ini nantinya akan menyimpan data di dalam format array. 
+* Sc: https://codingstudio.id/blog/struktur-data-pengertian-tipe-dan-kegunaan/
