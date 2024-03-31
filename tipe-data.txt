@@ -1,0 +1,16 @@
+Tipe data merupakan salah satu konsep dasar yang digunakan untuk menyimpan dan mengelola nilai atau informasi.
+  1. Tipe data primitif: tipe data dasar yang tersedia secara langsung pada suatu bahasa pemrograman.
+      a. Tipe data angka:
+          - Integer: terdiri dari angka bulat (tidak mengandung nilai pecahan atau nilai desimal).
+          - Float: biasanya digunakan untuk angka desimal (pecahan, misalnya 3.14).
+      b. Tipe data karakter:
+          - Character: hanya bisa diisi dengan 1 karakter (alfanumerik) saja harus ditulis diantara tanda kutip.
+      c. Tipe data boolean:
+          - Boolean: tipe data logika, yang berisi dua kemungkinan nilai: TRUE (benar) atau FALSE (salah).
+  2. Tipe data komposit: tipe data bentukan yang terdiri dari dua atau lebih tipe data primitif.
+      a. String
+          - String: mencakup jenis data berbentuk huruf, angka hingga jenis karakter lainnya seperti symbol namun secara umum akan selalu dianggap sebagai sebuah teks.
+      b. Array
+          - Aray: berisi sekelompok variable yang memiliki tipe yang sama. 
+* Sc: https://kodedasar.com/blog/pengertian-tipedata/
+      https://codingstudio.id/blog/macam-tipe-data-pemrograman/
